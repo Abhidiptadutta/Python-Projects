@@ -1,5 +1,9 @@
-# DevOps Basics
+# Weather Checker (Python)
 
-Simple Python calculator with GitHub Actions for CI.
+Fetch current weather for a city using OpenWeatherMap API.
 
-Push any change to trigger auto run.
+## Run
+```bash
+pip install requests
+python weather.py
+```
